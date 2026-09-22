@@ -22,7 +22,7 @@ Software Developer with 5+ years of professional experience, primarily focused o
 
 [GitHub](https://github.com/JakeFen/LinkPulse) · [Live Demo](https://linkpulse-kappa-sooty.vercel.app/)
 
-### 💼 Experience
+### Experience
 
 **Software Developer II @ AvidXchange** · 2020–2026
 
